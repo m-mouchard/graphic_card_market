@@ -1,16 +1,15 @@
 # Graphic Card Market Simulation
 
-## Installation
+This project simulates a market for graphic cards where different agents buy and sell based on specific rules. Each agent has its own strategy for buying or selling cards in response to price changes. The goal is to observe the price dynamics and agent behavior over 1,000 iterations.
 
-1. Clone the repository.
-2. Ensure Python is installed on your system.
+## Requirements
+- Python 3.8 or higher (no external libraries are required).
 
+## Installation and Execution
 
-### Key Points in this `README.md`:
+### 1. Clone the Project from GitHub
+If you have access to the repository, clone it using the following command:
 
-- **No mention of `requirements.txt`** since there are no external dependencies.
-- The **Installation and Execution** section guides users through setting up a virtual environment (optional) and running the project.
-- The **Project Structure** explains the organization of files.
-- **Agent Strategies** are explained to give users a better understanding of how the simulation works.
-
-Let me know if you need further adjustments!
+```bash
+git clone https://github.com/your-username/graphic-card-simulation-stocks.git
+cd graphic-card-simulation-stocks
