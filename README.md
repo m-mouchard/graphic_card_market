@@ -11,5 +11,5 @@ This project simulates a market for graphic cards where different agents buy and
 If you have access to the repository, clone it using the following command:
 
 ```bash
-git clone https://github.com/your-username/graphic-card-simulation-stocks.git
-cd graphic-card-simulation-stocks
+git clone https://github.com/your-username/graphic-card-market.git
+cd graphic-card-market
